@@ -1,0 +1,38 @@
+D:\Darshani\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.deps.json
+D:\Darshani\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfoInputs.cache
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfo.cs
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.CoreCompileInputs.cache
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.AssemblyReference.cache
+D:\Darshani's Project\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.deps.json
+D:\Darshani's Project\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani's Project\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.AssemblyReference.cache
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfoInputs.cache
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfo.cs
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.CoreCompileInputs.cache
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani's Project\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.deps.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfoInputs.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfo.cs
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.CoreCompileInputs.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.AssemblyReference.cache
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.deps.json
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.AssemblyReference.cache
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfoInputs.cache
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.AssemblyInfo.cs
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.csproj.CoreCompileInputs.cache
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani's Project\MCB\MCB\McShares\McShares.Core\obj\Debug\netcoreapp3.1\McShares.Core.pdb

@@ -1,0 +1,215 @@
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.AssemblyReference.cache
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfoInputs.cache
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfo.cs
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CoreCompileInputs.cache
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.MvcApplicationPartsAssemblyInfo.cache
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.exe
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.deps.json
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.json
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.dev.json
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.dll
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.pdb
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.Manifest.cache
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.xml
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\scopedcss\bundle\McShares.styles.css
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.RazorTargetAssemblyInfo.cache
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CopyComplete
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.genruntimeconfig.cache
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.exe
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.deps.json
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.json
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.dev.json
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.dll
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani's Project\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.pdb
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.AssemblyReference.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfoInputs.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfo.cs
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CoreCompileInputs.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.MvcApplicationPartsAssemblyInfo.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.Manifest.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.xml
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\scopedcss\bundle\McShares.styles.css
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.RazorTargetAssemblyInfo.cache
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CopyComplete
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani's Project\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.genruntimeconfig.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.AssemblyReference.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfoInputs.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.AssemblyInfo.cs
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CoreCompileInputs.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.MvcApplicationPartsAssemblyInfo.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.exe
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.deps.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.runtimeconfig.dev.json
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.dll
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Services.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Business.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Core.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\bin\Debug\netcoreapp3.1\McShares.Data.pdb
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.Manifest.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\staticwebassets\McShares.StaticWebAssets.xml
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\scopedcss\bundle\McShares.styles.css
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.RazorTargetAssemblyInfo.cache
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.csproj.CopyComplete
+D:\Darshani\30 Dec\MCB\MCB\McShares\McShares\obj\Debug\netcoreapp3.1\McShares.genruntimeconfig.cache

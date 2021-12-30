@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\McShares.Core\McShares.Core.csproj" />
+    <ProjectReference Include="..\McShares.Data\McShares.Data.csproj" />
+  </ItemGroup>
+
+</Project>
